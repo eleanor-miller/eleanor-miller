@@ -1,14 +1,23 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Eleanor Miller!
 
 ---
-
-Current non-profit 🎭 performing arts ticket sales manager turning student - enrolling in a Web Development Program, preparing to find employment as a junior front-end web developer.
+### 🙋🏽‍♀️ About Me
+Current non-profit 🎭 performing arts ticket sales manager turned night student - enrolled in a Web Development Program, preparing to find employment as a junior [front-end/back-end/full-stack]* web developer.
 
 Through self-study, lectures & activites, and projects & assignments - I will learn; HTML, CSS, JavaScript, React, Node, .NET, Ruby and SQL. Following this 396 Total Clock Hours program will be a capstone project demonstrating the skills learned.
 
+*I have no idea which direction I'll go yet! 😅
+
+
+#### How to reach me:
+
+Email: eleanormiller.dev@gmail.com
+
+Instagram: <a href="https://www.instagram.com/eleanormiller.dev/" alt="www.instagram.com/eleanormiller.dev/">@eleanormiller.dev</a>
+
 ---
 
-### 📚 What I Will Learn
+### 📚 What I Am Learning
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/html5/html5-original-wordmark.svg" alt="HTML5 logo" width="50px" length="50px"> <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/css3/css3-original-wordmark.svg" alt="CSS3 logo" width="50px" length="50px"> <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="50px" length="50px"> <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/react/react-original-wordmark.svg" alt="React logo" width="50px" length="50px"> <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs logo" width="50px" length="50px"> <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/ruby/ruby-original-wordmark.svg" alt="Ruby logo" width="50px" length="50px"> <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/mysql/mysql-original-wordmark.svg" alt="MySQL logo" width="50px" length="50px"> <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="Visual Studio logo" width="50px" length="50px">
 <!--
 **eleanor-miller/eleanor-miller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
