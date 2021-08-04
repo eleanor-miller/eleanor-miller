@@ -15,8 +15,6 @@ Email: eleanormiller.dev@gmail.com
 
 Instagram: <a href="https://www.instagram.com/eleanormiller.dev/" alt="www.instagram.com/eleanormiller.dev/">@eleanormiller.dev</a>
 
-<a href="www.linkedin.com/in/eleanormiller08"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/linkedin/linkedin-original.svg" alt="linkedin logo" width="30px" length="30px"></a>
-
 ---
 ### 🖥 What I Use
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/apple/apple-original.svg" alt="Apple logo" width="50px" length="50px"> <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/chrome/chrome-original.svg" alt="Google Chrome logo" width="50px" length="50px"> <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/firefox/firefox-original.svg" alt="Firefox logo" width="50px" length="50px"> <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/safari/safari-original.svg" alt="Safari logo" width="50px" length="50px"> <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg" alt="Visual Studio Code logo" width="50px" length="50px"> <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/figma/figma-original.svg" alt="Figma logo" width="50px" length="50px">
